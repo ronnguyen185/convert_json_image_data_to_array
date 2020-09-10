@@ -7,4 +7,4 @@ Check the PARAM in the main.py\
   d) sampleimagedir \
 Example: folderdir = "D:\\Personal_project\\image_test\\train_new_label_UNIMIB" \
 2.Change the scale \
-  Edit SCALE_PERCENT in case the sample image's size is too large\
+  Edit SCALE_PERCENT in case the sample image's size is too large.
